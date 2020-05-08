@@ -1,3 +1,4 @@
+// gulpfile2.js
 var gulp = require('gulp')
 var browserify = require('browserify') // 由Node.js环境移到浏览器环境里, 把所有模块捆绑成一个JavaScript文件。
 var source  = require('vinyl-source-stream') // vinyl-source-stream会将Browserify的输出文件适配成gulp能够解析的格式.
