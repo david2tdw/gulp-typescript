@@ -1,4 +1,4 @@
-#<center>gulp</center>
+<center><font size=15>gulp</font></center>
 ## gulp
   gulp定义：基于流的自动化构建工具。
 
@@ -8,7 +8,14 @@
 ## 区别
   gulp类似Ant、Maven，是一个Task Runner。而webpack是一个模块化解决方案。
 
-
+## gulp能做什么
+- JavaScript和CSS的版本问题
+- 性能优化
+  　文件合并
+  　文件压缩
+- 添加浏览器前缀
+- 单元测试
+- 代码分析
 ## 步骤
 检查 node、npm
 ```
